@@ -1,6 +1,6 @@
 pkg_name=nodejs_demo
 pkg_origin=pmtraining_190325
-pkg_version="0.3.7"
+pkg_version="0.3.8"
 pkg_scaffolding="core/scaffolding-node"
 
 
